@@ -1,0 +1,25 @@
+body {
+  background-color: #cac110;
+  height: 100vh;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin: 10px 20px;
+  align-items: center;
+}
+.navbar img {
+  max-width: 100px;
+}
+.navbar input {
+  text-align: center;
+  width: 200px;
+  border: 2px solid #369457;
+  color: white;
+  border-radius: 10px;
+  font-size: 18px;
+  background: #0D3E10;
+  height: 45px;
+}
